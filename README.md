@@ -1,5 +1,5 @@
 ## Hello :cherry_blossom:
-I'm a Mechatronics Engineering student from Panama City, Panama. I'm currently studying Artificial Intelligence so that's probably most of what you will see here for now.<br> 
+I'm a Mechatronics Engineering student from Panama City, Panama. I'm currently studying Artificial Intelligence so that's probably most of what you will be seeing here for now. I do plan on taking some WebDev courses in the near future<br> 
 - :hibiscus: Pronouns: she/her
 
 ### Learning/ Using:
@@ -10,7 +10,9 @@ I'm a Mechatronics Engineering student from Panama City, Panama. I'm currently s
 | [<img src= "https://raw.githubusercontent.com/jmibr/jmibr/master/img/java.png" alt="java logo" width="34" height="34">](https://www.oracle.com/java/) | [<img src= "https://raw.githubusercontent.com/jmibr/jmibr/master/img/c++.png" alt="c++ logo" width="34">](https://isocpp.org/) 
 |---|---|
 
+&nbsp;&nbsp;
 #### Would love to participate in open source projects in the future
+
 ### Find me on:
 
 
