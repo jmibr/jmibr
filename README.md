@@ -1,5 +1,5 @@
 ## Hello :cherry_blossom:
-I'm a Mechatronics Engineering student from Panama City, Panama. Since I'm currently studying Artificial Intelligence, that's probably most of what you will be seeing here for **_now_**. I do plan on taking some WebDev courses in the near future since it's something of my interest.<br> 
+I'm a Mechatronics Engineering student from Panama City, Panama.<br> 
 - :hibiscus: Pronouns: she/her
 
 ### Learning/ Using:
