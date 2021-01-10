@@ -1,5 +1,5 @@
 ## Hello :cherry_blossom:
-I'm a Mechatronics Engineering student from Panama City, Panama.<br> 
+I'm a Mechatronics Engineering student from Panama City, Panama. Art geek and Gundam fan.<br> 
 - :hibiscus: Pronouns: she/her
 
 ### Learning/ Using:
